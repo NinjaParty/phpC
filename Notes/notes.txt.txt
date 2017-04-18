@@ -1,0 +1,3 @@
+
+url sample
+http://localhost/lesson/phpc/introduction/test.php
